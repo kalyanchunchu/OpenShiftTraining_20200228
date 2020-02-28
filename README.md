@@ -1,0 +1,1 @@
+# OpenShiftTraining_20200228
